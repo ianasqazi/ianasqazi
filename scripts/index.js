@@ -63,14 +63,14 @@ const me = boxen(
 console.log(me);
 
 // TIP Section 
-const tip = [
-    `Tip: Try ${chalk.redBright.bold(
-        "cmd/ctrl + click"
-    )} on the links above`,
-    '',
-].join("\n");
+// const tip = [
+//     `Tip: Try ${chalk.redBright.bold(
+//         "cmd/ctrl + click"
+//     )} on the links above`,
+//     '',
+// ].join("\n");
 
-console.log(tip);
+// console.log(tip);
 
 // Question 
 const questions = [
