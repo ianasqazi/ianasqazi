@@ -1,0 +1,32 @@
+{
+  "name": "ianasqazi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "ianasqazi": "./scripts/index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianasqazi/ianasqazi.git"
+  },
+  "keywords": [
+    "ianasqazi"
+  ],
+  "author": "ianasqazi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianasqazi/ianasqazi/issues"
+  },
+  "homepage": "https://github.com/ianasqazi/ianasqazi#readme",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.11",
+    "open": "^9.1.0"
+  }
+}
