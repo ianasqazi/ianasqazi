@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Anas Qazi  
+![Profile Views](https://komarev.com/ghpvc/?username=ianasqazi&color=blue)
 
 💻 **Innovative Software Engineer | Full Stack Developer | AWS Specialist**  
 📍 Toronto, ON, Canada  
@@ -61,5 +62,3 @@ I’m passionate about building **modern applications**, mentoring developers, a
 
 ```bash
 npx ianasqazi
-```
-[![NPX Anas Qazi](https://img.shields.io/badge/💳%20npx-ianasqazi-blueviolet?style=for-the-badge)](https://www.npmjs.com/package/ianasqazi)
