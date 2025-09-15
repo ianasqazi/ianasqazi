@@ -34,19 +34,6 @@ I’m passionate about building **modern applications**, mentoring developers, a
 
 ---
 
-## 📌 Highlighted Projects  
-
-- **[COVID-19 Dashboard](https://github.com/ianasqazi/covid-dashboard)**  
-  🌍 Interactive map with global COVID stats using React, APIs, and data visualization.  
-
-- **[Jobs & Dragons](https://github.com/Winyumi/jobs-and-dragons)**  
-  🎮 RPG-themed job search platform built with React, Node.js, and MongoDB.  
-
-- **[Employee Directory (React)](https://github.com/ianasqazi/emp-dir-react)**  
-  📇 Manage employee details with advanced search & filtering.  
-
----
-
 ## 🏆 Experience Highlights  
 
 - **Veriday Inc. (Senior Software Engineer)** – Led **Liferay DXP upgrades**, AWS automation, and custom portal development.  
@@ -74,3 +61,5 @@ I’m passionate about building **modern applications**, mentoring developers, a
 
 ```bash
 npx ianasqazi
+```
+[![NPX Anas Qazi](https://img.shields.io/badge/💳%20npx-ianasqazi-blueviolet?style=for-the-badge)](https://www.npmjs.com/package/ianasqazi)
