@@ -7,6 +7,10 @@
 
 ---
 
+Full Stack Engineer | MERN | Liferay DXP | Cloud & DevOps
+
+---
+
 ## 🚀 About Me  
 With over **10 years of experience** across diverse IT domains, I am a **Full Stack Software Engineer** passionate about delivering scalable, high-performance solutions. I specialize in modern frameworks MERN, cloud technologies, Liferay DXP, and innovative software architectures tailored to client needs.  
 
