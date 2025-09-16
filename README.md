@@ -27,7 +27,6 @@ With over **10 years of experience** across diverse IT domains, I am a **Full St
 ![React](https://img.shields.io/badge/React-blue) 
 ![Node.js](https://img.shields.io/badge/Node.js-green) 
 ![Java](https://img.shields.io/badge/Java-orange) 
-![Python](https://img.shields.io/badge/Python-blue)  
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) 
