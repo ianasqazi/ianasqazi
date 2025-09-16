@@ -30,10 +30,10 @@ const avatar = chalk.cyan(`
 const data = {
   intro: chalk.dim("Hello World !!!"),
   name: chalk.bold.green("Anas Qazi"),
-  profession: chalk.white("Software Developer"),
-  web: chalk.gray("https://") + chalk.magenta("ianasqazi") + chalk.gray(".ca 🌐"),
-  github: chalk.gray("https://github.com/") + chalk.red("ianasqazi 💻"),
-  linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("anasqazi 🔗"),
+  profession: chalk.white("Software Engineer"),
+  web: chalk.gray("https://") + chalk.magenta("ianasqazi") + chalk.gray(".ca"),
+  github: chalk.gray("https://github.com/") + chalk.red("ianasqazi"),
+  linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("anasqazi"),
   npx: chalk.green("npx") + " " + chalk.white("ianasqazi"),
 };
 
@@ -49,33 +49,39 @@ const dataLabels = {
 clipboardy.writeSync("npx ianasqazi");
 
 // Card Section 
+
+// Random colors for quotes
+const quote = quotes[Math.floor(Math.random() * quotes.length)];
+const colors = [chalk.cyan, chalk.magenta, chalk.greenBright, chalk.yellow];
+const colorize = colors[Math.floor(Math.random() * colors.length)];
+
 const me = boxen(
   [
-    avatar,
+    // avatar, // optional ASCII art or emoji avatar
     ``,
-    `${data.intro}`,
+    `${chalk.bgMagenta.black("INTRO ")} ${data.intro}`,
     ``,
-    `My name is ${data.name}`,
+    `  My name is ${chalk.bold.green(data.name)}`,
     ``,
-    `I am a Full Stack ${data.profession}.`,
+    `  I am a Full Stack ${chalk.bold.blue(data.profession)}`,
     ``,
-    `${dataLabels.web}  ${data.web}`,
+    `${dataLabels.web}     ${data.web}`,
     `${dataLabels.github}  ${data.github}`,
-    `${dataLabels.linkedin}  ${data.linkedin}`,
+    `${dataLabels.linkedin} ${data.linkedin}`,
     ``,
     ``,
-    `${dataLabels.card}  ${data.npx} (Copied to clipboard!)`,
+    `${dataLabels.card}  ${data.npx} ${chalk.dim("(Copied to clipboard)")}`,
     ``,
     ``,
-    chalk.italic(quotes[Math.floor(Math.random() * quotes.length)]),
+    colorize.italic(`"${quote}"`)
   ].join("\n"),
   {
-    title: "Get in Touch with ME",
+    title: chalk.bold.green("Get in Touch with ME"),
     margin: 1,
     float: 'center',
     titleAlignment: "center",
     borderStyle: "double",
-    borderColor: "#ffb626",
+    borderColor: "red",
     padding: 1,
   }
 );
