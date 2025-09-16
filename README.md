@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Anas Qazi  
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ianasqazi&color=blue)
 
 💻 **Full Stack Software Engineer**  
