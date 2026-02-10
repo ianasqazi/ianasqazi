@@ -83,7 +83,10 @@ With a background in **Oracle consulting and senior database administration**, I
 
 ### ⚡ Enterprise CMS & Platforms
 ![Liferay DXP](https://img.shields.io/badge/Liferay_DXP-005C97?logo=liferay&logoColor=white) 
+![Liferay DXP](https://img.shields.io/badge/Liferay_DXP-005C97?logo=liferay&logoColor=white) 
+
 ![Service Builder](https://img.shields.io/badge/Service_Builder-005C97?logo=liferay&logoColor=white) 
+![Service Builder](https://img.shields.io/badge/Service_Builder-005C97?logo=liferay&logoColor=white)
 
 ### ⚡ Tools & Collaboration
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
