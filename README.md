@@ -2,26 +2,34 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ianasqazi&color=blue)
 
-💻 **Full Stack Software Engineer**  
+💻 **Senior Full-Stack Engineer | Enterprise Platforms | Cloud & DevOps**
+
 📍 Toronto, ON, Canada  
 🔗 [LinkedIn](https://www.linkedin.com/in/anasqazi) · [Portfolio](https://ianasqazi.ca) · 📧 ianasqazi@gmail.com  
 
 ---
 
-Full Stack Engineer | MERN | Liferay DXP | Cloud & DevOps
+Senior Full Stack Engineer | MERN | Liferay DXP | AWS | Cloud & DevOps
 
 ---
 
 ## 🚀 About Me  
-With over **10 years of experience** across diverse IT domains, I am a **Full Stack Software Engineer** passionate about delivering scalable, high-performance solutions. I specialize in modern frameworks MERN, cloud technologies, Liferay DXP, and innovative software architectures tailored to client needs.  
+
+Senior Full-Stack Engineer with **10+ years of experience designing and delivering scalable, secure, enterprise-grade systems** across fintech, banking, insurance, and cloud environments.
+
+I currently work on **Liferay DXP–based enterprise platforms**, leading end-to-end delivery of custom workflows, dashboards, integrations, and role-based systems for regulated organizations. My work spans **architecture, development, CI/CD automation, performance optimization, and accessibility (WCAG 2.1/2.2, AODA)**.
+
+With a background in **Oracle consulting and senior database administration**, I bring a rare cross-domain perspective — enabling me to design resilient, maintainable systems that align technical decisions with real business objectives.
+
 
 ## 🛠️ Skills & Tech Stack  
 
 ### 🔑 Core Skills  
-- **Full Stack Development**: React.js, Node.js, Express, Angular, Java  
-- **Cloud & DevOps**: AWS (EC2, S3, RDS, VPC, CloudWatch), Docker, Jenkins  
-- **CMS & Integrations**: Liferay DXP, API integrations, OAuth, SSO  
-- **Databases & Search**: PostgreSQL, MongoDB, MySQL, Elasticsearch  
+- **Full-Stack Engineering**: React.js, Node.js, Express, Angular, Java, GraphQL  
+- **Cloud & DevOps**: AWS (EC2, ECS/Fargate, Lambda, S3, RDS/Aurora, DynamoDB, VPC, IAM), Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions)  
+- **Enterprise CMS & Integrations**: Liferay DXP, Service Builder, API orchestration, OAuth, SSO  
+- **Databases & Search**: Oracle, PostgreSQL, MongoDB, MySQL, DynamoDB, Elasticsearch  
+- **Accessibility & Compliance**: WCAG 2.1 / 2.2, AODA  
 
 ### ⚡ Tools & Technologies  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow) 
@@ -49,28 +57,27 @@ With over **10 years of experience** across diverse IT domains, I am a **Full St
 
 ## 🏆 Experience Highlights  
 
-- **Full Stack & Web Development** – Built modern web applications using **React.js, Node.js, Express, Angular, MERN stack**, including dashboards, interactive data visualizations, and third-party API integrations.  
+- **Enterprise Platform Engineering** – Led end-to-end development of **Liferay DXP enterprise portals**, including custom workflows, dashboards, admin tools, and platform upgrades for regulated clients in banking and insurance.  
 
-- **Liferay DXP & CMS Expertise** – Delivered **custom portlets, themes, dashboards**, and seamless **Liferay DXP upgrades** for enterprise portals.  
+- **Cloud & DevOps Ownership** – Designed, managed, and optimized **AWS infrastructure** with CI/CD pipelines, containerization (**Docker, Kubernetes**), monitoring, auto-scaling, and disaster recovery strategies.  
 
-- **Cloud & DevOps** – Managed and optimized **AWS infrastructure** (EC2, S3, RDS, VPC, CloudWatch) with automated deployments, CI/CD pipelines (**Jenkins, Docker, Kubernetes**), and disaster recovery strategies.  
+- **Full-Stack Development** – Built scalable applications using **React, Node.js, Express, Angular, GraphQL**, integrating third-party APIs and complex business logic.  
 
-- **Database & Data Solutions** – Designed and maintained **PostgreSQL, MongoDB, MySQL, Oracle** databases and Elasticsearch-powered search.  
+- **Performance & Search Optimization** – Improved system performance through query tuning, caching strategies, and **Elasticsearch** integration.  
 
-- **Mentorship & Teaching** – Guided aspiring developers at **Springboard** and **University of Toronto**, conducting code reviews, workshops, and real-world project mentorship.  
+- **Database & Enterprise Systems** – Deep experience with **Oracle, PostgreSQL, MongoDB**, including high availability, performance tuning, and mission-critical workloads.  
 
-- **Enterprise & Consulting** – Supported clients across **banking, insurance, and consulting sectors**, delivering secure, high-performance solutions, audit compliance, and enterprise-level upgrades.  
+- **Mentorship & Teaching** – Mentored developers and students through **Springboard** and **University of Toronto**, conducting code reviews, workshops, and real-world project guidance.  
 
 ---
 
 ## 🤝 Let’s Connect  
-I’m always open to discussing **collaborations, opportunities, or just sharing ideas**.  
+I’m always open to discussing **enterprise platforms, cloud architecture, mentorship, or new opportunities**.  
 
-Here are the best ways to reach me:  
+Best ways to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/anasqazi)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ianasqazi@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?logo=vercel)](https://ianasqazi.ca)  
 
 
 💡 Curious? Grab my **interactive digital business card** straight from your terminal:
