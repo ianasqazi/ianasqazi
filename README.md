@@ -52,6 +52,47 @@ With a background in **Oracle consulting and senior database administration**, I
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira) 
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence)  
 
+### ⚡ Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) 
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) 
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) 
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) 
+
+### ⚡ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) 
+
+### ⚡ Databases & Search
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white) 
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white) 
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white) 
+
+### ⚡ Enterprise CMS & Platforms
+![Liferay DXP](https://img.shields.io/badge/Liferay_DXP-005C97?logo=liferay&logoColor=white) 
+![Service Builder](https://img.shields.io/badge/Service_Builder-005C97?logo=liferay&logoColor=white) 
+
+### ⚡ Tools & Collaboration
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) 
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white) 
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white) 
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) 
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black) 
+
 
 ---
 
